@@ -1,0 +1,40 @@
+.box1{
+    border  : solid  1px   black ; 
+    height  :  200px  ;  
+    width  :  200px ; 
+    order  : 5   ;  
+
+
+
+}
+.box2{
+    border  : solid  1px   black ; 
+    height  :  200px  ;  
+    width  :  200px ;
+}
+.box3{
+    border  : solid  1px   black ; 
+    height  :  200px  ;  
+    width  :  200px ;
+}
+.box4  {
+    border  : solid  1px   black ; 
+    height  :  200px  ;  
+    width  :  200px ;
+
+}
+.box5  {
+    border  : solid  1px   black ; 
+    height  :  200px  ;  
+    width  :  200px ;
+
+}
+.container {
+    display : flex  ; 
+      
+     
+
+     
+
+
+}
